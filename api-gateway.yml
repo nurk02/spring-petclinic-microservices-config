@@ -16,6 +16,8 @@ server:
 
 # Internationalization
 spring.messages.basename: messages/messages
+spring.security.user.name=admin
+spring.security.user.password=admin
 
 ---
 spring:
